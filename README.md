@@ -1,4 +1,4 @@
-Stock Market Prediction with LSTM and CNN
+Evaluations of LSTM and CNN performance on Stock Market Prediction
 
 scaler = MinMaxScaler(),
 optimizer = 'adam',
